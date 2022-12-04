@@ -1,4 +1,4 @@
-package com.yj.AnimalShop.pojo;
+package com.yj.animalShop.pojo;
 
 /**
  * @Author yJade

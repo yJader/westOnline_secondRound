@@ -1,9 +1,9 @@
-package com.yj.AnimalShop.service;
+package com.yj.animalShop.service;
 
-import com.yj.AnimalShop.myException.AnimalNotFountException;
-import com.yj.AnimalShop.myException.InsufficientBalanceException;
-import com.yj.AnimalShop.pojo.Animal;
-import com.yj.AnimalShop.pojo.Customer;
+import com.yj.animalShop.myException.AnimalNotFountException;
+import com.yj.animalShop.myException.InsufficientBalanceException;
+import com.yj.animalShop.pojo.Animal;
+import com.yj.animalShop.pojo.Customer;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.yj.AnimalShop.myException;
+package com.yj.animalShop.myException;
 
 /**
  * @Author yJade

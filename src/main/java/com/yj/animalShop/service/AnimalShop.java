@@ -1,7 +1,7 @@
-package com.yj.AnimalShop.service;
+package com.yj.animalShop.service;
 
-import com.yj.AnimalShop.pojo.Animal;
-import com.yj.AnimalShop.pojo.Customer;
+import com.yj.animalShop.pojo.Animal;
+import com.yj.animalShop.pojo.Customer;
 
 /**
  * @Author yJade

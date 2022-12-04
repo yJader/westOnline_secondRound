@@ -1,6 +1,5 @@
-import com.yj.AnimalShop.pojo.*;
-import com.yj.AnimalShop.service.AnimalShop;
-import com.yj.AnimalShop.service.MyAnimalShop;
+import com.yj.animalShop.pojo.*;
+import com.yj.animalShop.service.MyAnimalShop;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package com.yj.AnimalShop.pojo;
+package com.yj.animalShop.pojo;
 
 /**
  * @Author yJade
@@ -6,11 +6,11 @@ package com.yj.AnimalShop.pojo;
  * @Package com.yj.pojo
  */
 public abstract class Animal {
-    String name;
-    Integer age;
-    String sex;
-    Double purchasePrice;
-    Double price;
+    protected String name;
+    protected Integer age;
+    protected String sex;
+    protected Double purchasePrice;
+    protected Double price;
 
     public Animal(String name, Integer age, String sex, Double purchasePrice, Double price) {
         this.name = name;
